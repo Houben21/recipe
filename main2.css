@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+.photo-show img{
+	float:left;
+}
+a{
+	color:#A4A400;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+}
+h1{
+	
+	text-align: center;
+	color: #A4A400;
+}
+p{
+	color: #90C;
+	font-family:Verdana, Geneva, sans-serif;
+}
+h3{
+	
+	color: #600;
+	font-family:Verdana, Geneva, sans-serif;
+}
+h2{
+	color: #600;
+	font-family:Verdana, Geneva, sans-serif;
+}
+.showmethmoney li{
+	display:inline;
+}
+	

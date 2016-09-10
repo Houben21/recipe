@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	font-size: 22pt;
+	text-align: center;
+	color: #A4A400;
+	background-color: #F0F0F0;
+}
+h2{
+	color:#A4A400;
+	font-weight:normal;
+	background-color: #F0F0F0;
+	font-family: "Century Gothic", "Futura", "Verdana", "sans-serif";
+}
+p{
+	color:#404040;
+	font-size:11pt;
+	font-family: "Georgia", "Garamond","sans-serif";
+}
+ul li{
+	color:＃A4A400;
+	font-size:11pt;
+	font-family: "Georgia", "Garamond", "sans-serif";
+}
+ol li{
+	color:＃A4A400;
+	font-size:11pt;
+	font-family: "Georgia", "Garamond", "sans-serif";
+}
+ul{
+	list-style-image: url(pie_icon.gif);
+}
+a{
+	color:#A4A400;
+	font-family: "Georgia", "Garamond", "sans-serif";
+}
+blockquote{
+	background-color:#FFFFC8;
+}
+
